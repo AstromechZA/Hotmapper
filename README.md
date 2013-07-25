@@ -1,6 +1,8 @@
 Hotmapper
 =========
 A Java class for generating heatmaps from 2-dimensional numeric data.
+This repository contains an eclipse project with Example main class which generates sample.png.
+
 
 Colours
 =======
@@ -10,3 +12,4 @@ Can use any array of RGB Integers for custom colour ranges, banding effects or c
 Speed
 =====
 Seems to run fast enough. 
+
